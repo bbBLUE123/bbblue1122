@@ -1,0 +1,29 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": wx84f960a15670f188"",
+# 公众号appSecret
+"app_secret": "9d63820daf6072ed3ec4eefe8fd32c9e",
+# 模板消息id
+"template_id": "6Hi7CrrmwzGBZtASCxvf9czUlrdWG5UQqeS_bAAj1yg",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["ohWt75p2I-SvN0D0gzJT46AONlpM","ohWt75uDRLiHmZnuMYhmLNfJoQqc"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "1d2a311263964f5d9e60174b6fb52dd4",
+# 天行数据apikey
+"tian_api": "3dac9981841273467517753b0a546aa8",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "余姚",
+# 生日1
+"birthday1": {"name": "小闷", "birthday": "2004-03-11"},
+# 生日2
+"birthday2": {"name": "小抓", "birthday": "r2003-10-02"},
+# 爱小猫已经，格式同上
+"love_date": "2021-10-29",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "每天都有爱小猫！>ᴗ<",
+# 金句英文
+"note_en": "Every everyday 记得好好运动 好好吃饭 好好刷牙 还有好好miss me! "
+}
